@@ -15,6 +15,8 @@ A modern, mobile-first React application that uses NLP techniques to extract key
 - Smart keyword extraction
 - Intelligent sentence cleaning
 
+![Summary](public/images/summary.png)
+
 ## Getting Started
 
 ```bash
